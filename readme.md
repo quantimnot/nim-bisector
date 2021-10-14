@@ -3,7 +3,7 @@
 Rapid Nim bisection
 
 * [x] Cache built compilers
-* [-] Reuse cached compilers
+* [] Reuse cached compilers
 
 ## TODO
 
