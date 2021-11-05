@@ -15,3 +15,4 @@ Rapid Nim bisection
 
 * https://nim-lang.github.io/Nim/intern.html#bisecting-for-regressions
 * https://git-scm.com/docs/git-bisect
+* https://www.endpointdev.com/blog/2014/11/finding-specific-git-commit-at-point-in/
